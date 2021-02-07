@@ -142,7 +142,6 @@
     <ClCompile Include="GuessGame.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="game_arrays.h" />
     <ClInclude Include="game_runner.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

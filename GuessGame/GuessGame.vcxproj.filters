@@ -23,8 +23,5 @@
     <ClInclude Include="game_runner.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="game_arrays.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
