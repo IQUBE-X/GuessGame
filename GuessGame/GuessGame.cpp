@@ -18,4 +18,7 @@ int main()
     else if (startOrQuit == 's') {
         Game();
     }
+    else {
+        cout << "Choose a valid option.";
+    }
 }
