@@ -19,14 +19,14 @@ Randomization was done using the `rand()` and `srand()` seed methods. Planning t
 To run this project you will need [**Visual Studio 2019**](https://visualstudio.microsoft.com/vs/).
 
 - Open **Visual Studio** and select **Clone a repository**
-![Step 1](https://imgur.com/a/W5DabYB)
+![Step 1](https://i.imgur.com/IhWrkhy.png)
 
 - Enter the required details and click on **Clone**
-![Step 2](https://imgur.com/a/DBncqX5)
+![Step 2](https://i.imgur.com/n3oJoFR.png)
 
 - You will be able to see all the files on the **Solution Explorer** on the right.
-![Step 3](https://imgur.com/a/T2H2Cbr)
+![Step 3](https://i.imgur.com/Jt9ljtv.png)
 
 - Click on **Local Windows Debugger** or press **F5** to run the program
-![Step 4](https://imgur.com/a/KKZLvjd)
+![Step 4](https://i.imgur.com/8VSqbxo.png)
 
